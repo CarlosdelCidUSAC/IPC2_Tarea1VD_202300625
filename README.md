@@ -1,10 +1,3 @@
-Aquí tienes un ejemplo de cómo podrías rellenar el archivo 
-
-README.md
-
- con un manual del proyecto:
-
-```markdown
 # IPC2_Tarea1VD_202300625
 
 ## Descripción del Proyecto
@@ -35,11 +28,7 @@ Este proyecto es una aplicación de gestión de una biblioteca que permite a los
 
 Para ejecutar el programa, simplemente corre el archivo `main.py`:
 ```bash
-python 
-
-main.py
-
-
+python main.py
 ```
 
 ## Funcionalidades
@@ -77,11 +66,3 @@ main.py
 3. Sigue las instrucciones para ingresar los datos del recurso.
 4. Utiliza las demás opciones del menú para gestionar los recursos de la biblioteca.
 
-## Contribuciones
-
-Las contribuciones son bienvenidas. Por favor, abre un issue o un pull request para discutir cualquier cambio que desees realizar.
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
-```
