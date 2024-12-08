@@ -82,7 +82,7 @@ def main():
                     print("Opción no válida, intente de nuevo.")
 
         elif opcion == '2':
-            menu_ingresar_recurso()
+            menu_buscar_recurso()
             opcion_buscar_recurso = input("Ingrese su opción: ")
             if opcion_buscar_recurso == '3':
                 break
